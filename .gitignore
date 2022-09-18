@@ -1,2 +1,8 @@
+
+# directory
 /node_modules
+
+# files 
 package-lock.json
+code.js
+package.json
